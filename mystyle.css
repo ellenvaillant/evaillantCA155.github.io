@@ -1,0 +1,43 @@
+body{
+	background-color:ghostwhite;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+h1{
+	font-family:Georgia, times, serif;
+	text-align:center;
+	color:red;
+	margin: 50px 50px 50px 50px;
+}
+
+h2, h3{
+	color: red;
+}
+
+nav, a{
+	color:red;
+	text-decoration:none;
+}
+	
+a:active, a:hover{
+	color:black;
+	text-decoration: underline;
+}
+
+nav, footer{
+	text-align: center;
+	background-color: white;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.center{
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	width: 50%;
+}
